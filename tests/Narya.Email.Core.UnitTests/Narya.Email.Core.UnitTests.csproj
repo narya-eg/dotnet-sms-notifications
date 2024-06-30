@@ -23,7 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Src\Narya.Sms.Core\Narya.Sms.Core.csproj" />
+    <ProjectReference Include="..\..\src\Narya.Sms.Core\Narya.Sms.Core.csproj" />
   </ItemGroup>
 
 </Project>
